@@ -5,7 +5,7 @@
 - Friendly classmates
 - The cool teachers :)
 
-
+</br>
 ## Leaving the following for reference: 
 # Welcome to GitHub Pages
 
